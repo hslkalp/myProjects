@@ -1,0 +1,35 @@
+
+
+
+Depo çalýþaný giriþ ID : 7a891g9123 veya 7a891g9555
+Satýþ çalýþaný giriþ ID : 1 veya 2
+
+
+Depo müdürü giriþ ID : 6a5551232adf3
+Satýþ müdürü giriþ ID : 1
+
+
+Depo Çalýnýnýn yaptýðý iþlemler
+-Ürün Listesi
+-Ürün Arama ve sýralama
+-Ürün ekle, güncelle ,sil
+-Kategori ekle
+
+Satýþ Çalýþanýnýn yaptýðý iþlemler
+-Ürün listesi
+-Ürün arama ve sýralama
+-Ürün satýþ
+-Yapýlan satýþlara bakma
+
+
+Satýþ Müdürünün yaptýðý iþlemler
+-Personel listesi (Satýþ bölümünde çalýþan)
+-Personellerin yapmýþ olduðu satýþlar
+-Katalog listesi
+
+Depo Müdürünün yaptýðý iþlemler
+-Personel listesi (Depo bölümünde çalýþan)
+-Stok listesi (Ürünlerin adetleri)
+
+
+!!!Projeye sqlite jdbc kütüphanesi eklenmelidir.
